@@ -1,4 +1,4 @@
 # First-
 This is my first project
 <br>
-Author - Satadal Halder
+Author - Satadal (Apna College)
